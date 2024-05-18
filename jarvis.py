@@ -394,13 +394,7 @@ def body():
 
             cv2.destroyAllWindows()
 
-        elif 'who is uday uncle' in query:
-            speak("he lives in your house on rent ") 
-        elif'who is kanak 'in query:
-            speak("she is a baby girl and she lives in the corner house of my boss and this is the new of the important thing that  i ")
-        elif'abuse' in query:
-            speak("sir your all enemies including sisters are all chutiyaas")
-
+       
 
 
 
